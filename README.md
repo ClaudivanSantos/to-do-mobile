@@ -9,7 +9,7 @@
 
 ## 📫 Visualização do projeto
 
-<img align="center" height="50%" width="50%" src=".github/to-do.png" alt="screen" border="0">
+<img align="center" height="50%" width="50%" src=".github/todo-mobile.png" alt="screen" border="0">
 
 ## 💻 Projeto
 O projeto foi criado para ser um app de lista de tarefas
